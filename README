@@ -14,3 +14,6 @@ Pages worth starting with are
 * Kernel configuration, compilation, etc: http://criu.org/Installation
 * A simple example of usage: http://criu.org/Simple_loop
 * More sophisticated example with graphical app: http://criu.org/VNC
+
+
+# 结合论文《Linux Containers容器热迁移机制的研究》查看该源码效果好一点
